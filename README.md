@@ -8,7 +8,7 @@ FDExpansionTableView is a demo which indicates the three way to expand table vie
 
 ## Preview
 
-![preview](http://7xiamc.com1.z0.glb.clouddn.com/preview.gif)
+![preview](https://github.com/fergusding/FDExpansionTableView/blob/master/preview.gif)
 
 #License
   MIT
